@@ -12,6 +12,7 @@
 		5704A9992C69075000A005F5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5704A9982C69075000A005F5 /* ViewController.swift */; };
 		5704A99E2C69075200A005F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5704A99D2C69075200A005F5 /* Assets.xcassets */; };
 		5704A9A12C69075200A005F5 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 5704A9A02C69075200A005F5 /* Base */; };
+		5704A9AB2C6913E200A005F5 /* swiftlint.yml in Resources */ = {isa = PBXBuildFile; fileRef = 5704A9AA2C6913E100A005F5 /* swiftlint.yml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		5704A99D2C69075200A005F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5704A9A02C69075200A005F5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5704A9A22C69075200A005F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5704A9AA2C6913E100A005F5 /* swiftlint.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = swiftlint.yml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				5704A99D2C69075200A005F5 /* Assets.xcassets */,
 				5704A99F2C69075200A005F5 /* LaunchScreen.storyboard */,
 				5704A9A22C69075200A005F5 /* Info.plist */,
+				5704A9AA2C6913E100A005F5 /* swiftlint.yml */,
 			);
 			path = SaintM;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5704A99E2C69075200A005F5 /* Assets.xcassets in Resources */,
+				5704A9AB2C6913E200A005F5 /* swiftlint.yml in Resources */,
 				5704A9A12C69075200A005F5 /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
