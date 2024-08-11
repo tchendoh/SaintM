@@ -1,2 +1,2 @@
 # SaintM
-App to show metro status. 
+App that shows metro status. 
